@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Display:wght@400..800&display=swap');
+
+body{
+    font-family: "Wix Madefor Display", sans-serif;
+}
