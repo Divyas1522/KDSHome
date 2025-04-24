@@ -22,7 +22,7 @@ const Navbar = () => {
       <div className="flex items-center mr-auto lg:ml-0">
         <Link to="/">
           <img
-            src="public/706cd66e1ce6710352d36dfe43aa4d584ae01a89(1).png"
+            src="/706cd66e1ce6710352d36dfe43aa4d584ae01a89(1).png"
             alt="Logo"
             className="h-15 w-48"
           />
