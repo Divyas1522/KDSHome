@@ -19,11 +19,6 @@ const Navbar = () => {
   return (
     <nav className="bg-[#FFFFFF] text-black px-6 py-7 flex justify-between items-center shadow-md relative">
       {/* Logo - Stays Left */}
-      {/* <div className="flex items-center">
-        <Link to="/">
-          <img src="public/706cd66e1ce6710352d36dfe43aa4d584ae01a89(1).png" alt="Logo" className="h-15 w-48 ml-22" />
-        </Link>
-      </div> */}
       <div className="flex items-center mr-auto lg:ml-0">
         <Link to="/">
           <img
